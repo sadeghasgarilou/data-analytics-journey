@@ -1,0 +1,19 @@
+git status
+git add .
+git commit -m "Day 01: review Python basics"
+git push
+
+
+Your files
+   ↓
+git add
+   ↓
+Staging Area
+   ↓
+git commit
+   ↓
+Local Git
+   ↓
+git push
+   ↓
+GitHub
