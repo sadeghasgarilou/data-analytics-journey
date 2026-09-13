@@ -1,4 +1,4 @@
-# Day 16
+# Day 17
 
 ## What I learned
 - Pandas indexing works in one of two paradigms : 1- index-based selection(iloc) : select based on numerical position, 2- label-based selection(loc) : select based on data index not numerical position
