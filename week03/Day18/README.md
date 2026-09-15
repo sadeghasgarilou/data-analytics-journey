@@ -16,7 +16,7 @@
 - We can do map by operator like row.points - review_points_mean but they are not as flexible as methodes
 
 ## Exercises
-- 
+- practice selecting different rows and columns in a students dataframe
 
 ## Course
 - Summary Functions and Maps from pandas course of kaggle
