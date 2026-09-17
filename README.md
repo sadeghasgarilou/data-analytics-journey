@@ -2,9 +2,9 @@
 
 ### Python
 - [x] Python Basics
-- [ ] Functions
-- [ ] NumPy
-- [ ] Pandas
+- [x] Functions
+- [x] NumPy
+- [x] Pandas
 
 ### SQL
 - [ ] Advanced SELECT
