@@ -9,20 +9,26 @@
 | Pandas | 🟡 In Progress |
 
 ### SQL
-- [ ] Advanced SELECT
-- [ ] JOIN
-- [ ] CTE
-- [ ] Window Functions
+| Topic | Status |
+|---|---|
+| Advanced SELECT | ⬜ Planned |
+| JOIN | ⬜ Planned |
+| CTE | ⬜ Planned |
+| Window Functions | ⬜ Planned |
 
 ### Statistics
-- [ ] Descriptive Statistics
-- [ ] Probability
-- [ ] Hypothesis Testing
+| Topic | Status |
+|---|---|
+| Descriptive Statistics | ⬜ Planned |
+| Probability | ⬜ Planned |
+| Hypothesis Testing | ⬜ Planned |
 
 ### Visualization
-- [ ] Matplotlib
-- [ ] Seaborn
-- [ ] Power BI
+| Topic | Status |
+|---|---|
+| Matplotlib | ⬜ Planned |
+| Seaborn | ⬜ Planned |
+| Power BI | ⬜ Planned |
 
 ## Certificates
 | Certificate | Status |
