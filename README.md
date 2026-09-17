@@ -1,10 +1,12 @@
 ## Progress
 
-### Python
-- [x] Python Basics
-- [x] Functions
-- [x] NumPy
-- [x] Pandas
+### Python & Data Analysis
+| Topic | Status |
+|---|---|
+| Python Basics | ✅ Completed |
+| Functions | ✅ Completed |
+| NumPy | ✅ Completed |
+| Pandas | 🟡 In Progress |
 
 ### SQL
 - [ ] Advanced SELECT
@@ -23,8 +25,9 @@
 - [ ] Power BI
 
 ## Certificates
-
-- [ ] Kaggle Python
-- [ ] Kaggle Pandas
-- [ ] Kaggle Data Visualization
-- [ ] Kaggle SQL
+| Certificate | Status |
+|---|---|
+| Kaggle Python | ✅ Completed |
+| Kaggle Pandas | 🟡 67% |
+| Kaggle Data Visualization | ⬜ Planned |
+| Kaggle SQL | ⬜ Planned |
