@@ -15,7 +15,7 @@
 - sort by more than one columns and set them descending : students.sort_values(by=['python','math'],ascending=[False,False])
 
 ## Exercises
-- 
+- practice sorting, grouping, and filtering in a students DataFrame
 
 ## Course
 - Grouping and Sorting from pandas course of kaggle
