@@ -34,6 +34,6 @@
 | Certificate | Status |
 |---|---|
 | Kaggle Python | ✅ Completed |
-| Kaggle Pandas | 🟡 67% |
+| Kaggle Pandas | ✅ Completed |
 | Kaggle Data Visualization | ⬜ Planned |
 | Kaggle SQL | ⬜ Planned |
