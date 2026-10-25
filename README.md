@@ -35,5 +35,6 @@
 |---|---|
 | Kaggle Python | ✅ Completed |
 | Kaggle Pandas | ✅ Completed |
+| Kaggle Data Cleaning | 🟡 In Progress |
 | Kaggle Data Visualization | ⬜ Planned |
 | Kaggle SQL | ⬜ Planned |

@@ -18,7 +18,7 @@
 	Save a reproducible output for future analysis
 
 ## Exercises
-- 
+- Project Week06
 
 ## Course
 - 
