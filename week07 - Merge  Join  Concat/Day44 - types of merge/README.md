@@ -2,6 +2,7 @@
 
 ## What I learned
 - Types of merge :
+
 | Join | What it preserves | Typical use |
 |---|---|---|
 | `inner` | Matching keys only | Analyse matched transactions |
@@ -18,6 +19,7 @@ Before merging, ask:
 - Validate merges with validate : It checks whether the key relationships match your expectations : pd.merge(left_df,right_df,on='key',validate='one_to_one')
 - Professional habit: When you know the expected relationship, use validate=. It can catch data problems before they silently affect your analysis.
 - Different types of validate :
+
 | validate value | Left key | Right key |
 |---|---|---|
 | `"one_to_one"` | Unique | Unique |
@@ -27,6 +29,7 @@ Before merging, ask:
 
 - Use indicator=True to investigate unmatched rows : audit = pd.merge(customers,orders,on='customer_id',how='outer',indicator=True)
 - Pandas adds a _merge column with one of three values:
+
 | `_merge` value | Meaning |
 |---|---|
 | `left_only` | The key exists only in the left DataFrame |
